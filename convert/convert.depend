@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636389600 source:/home/apprenant/Documents/convert/main.c
+	<stdio.h>
+	<stdlib.h>
+
