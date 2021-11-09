@@ -14,11 +14,11 @@ int main()
     if ( devise == 'E' ||  devise == 'e'){
         printf("Quel est votre montant: ");
         scanf("%d",  &num);
-        printf("euro %f", num * euro);
+        printf( "%f € ", num * euro);
     }else if ( devise == 'D' ||  devise == 'd'){
         printf("Quel est votre montant: ");
         scanf("%d",  &num);
-        printf("dollar %f", num * dollar);
+        printf("%f $", num * dollar);
     } else{
         printf("Valeur inconue !");
     }
